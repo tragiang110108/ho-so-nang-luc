@@ -1,0 +1,29 @@
+PHIẾU KIỂM TRA LIÊN KẾT VÀ QUYỀN TRUY CẬP
+Họ tên: Trương Phạm Trà Giang
+Tên website: Hồ sơ năng lực số – Trương Phạm Trà Giang
+Đường dẫn website: ....................................................................
+
+A. KIỂM TRA ĐIỀU HƯỚNG
+[ ] Trang chủ mở bình thường
+[ ] Liên kết Giới thiệu hoạt động
+[ ] Liên kết Dự án hoạt động
+[ ] Liên kết Liên hệ hoạt động
+[ ] Các nút xem dự án / tìm hiểu hoạt động
+
+B. KIỂM TRA NỘI DUNG
+[ ] Thông tin cá nhân và ngành học chính xác
+[ ] Có ít nhất 2 dự án, mô tả mục tiêu, vai trò, công cụ và kết quả
+[ ] Hình ảnh/liên kết minh chứng hiển thị
+[ ] Email/CV (nếu có) đúng và có thể truy cập
+[ ] Không công khai địa chỉ nhà, số giấy tờ, mật khẩu, lịch học chi tiết hoặc dữ liệu người khác
+
+C. KIỂM TRA THIẾT BỊ VÀ QUYỀN TRUY CẬP
+[ ] Trang chủ hiển thị tốt trên máy tính
+[ ] Trang chủ hiển thị tốt trên điện thoại
+[ ] Website được đặt quyền xem công khai
+[ ] Các liên kết minh chứng không yêu cầu quyền truy cập riêng
+[ ] Đã thử mở website bằng cửa sổ ẩn danh hoặc trình duyệt khác
+
+Kết quả:  [ ] Đạt    [ ] Cần chỉnh sửa
+Ngày kiểm tra: ....../....../........
+Người kiểm tra: ........................................
